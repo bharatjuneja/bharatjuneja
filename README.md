@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE3%20%7C%208%2B%20Years&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE%203%20%7C%208%2B%20Years&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+iOS+apps+used+by+millions;Server-Driven+UI+%7C+Modular+Architecture;Swift+%7C+UIKit+%7C+AVKit+%7C+CoreData;Scaling+consumer-grade+mobile+experiences" alt="Typing SVG" /></a>
@@ -21,7 +21,7 @@
 
 ```swift
 struct BharatJuneja {
-    let role = "SDE3"
+    let role = "SDE 3"
     let company = "Nykaa"
     let experience = "8+ years"
     let domains = ["E-Commerce", "Ed-Tech", "IoT"]
@@ -74,7 +74,7 @@ struct BharatJuneja {
 
 | Company | Role | Period | Highlights |
 |---------|------|--------|------------|
-| **🛍️ Nykaa** | SDE3 | Jan 2023 — Present | Owned Display Network SDK, server-driven UI architecture, performance optimization |
+| **🛍️ Nykaa** | SDE 3 | Jan 2023 — Present | Owned Display Network SDK, server-driven UI architecture, performance optimization |
 | **📚 Byju's** | SDE 2 | May 2021 — Jan 2023 | DRM video playback framework, interactive video features, cross-app platform |
 | **🌐 VVDN Technologies** | Senior Software Engineer | Apr 2016 — May 2021 | IoT app development, architecture design, client communication |
 
