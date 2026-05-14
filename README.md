@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE3%20%7C%20Senior%20iOS%20Engineer%20%7C%208%2B%20Years&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE3%20%7C%208%2B%20Years&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+iOS+apps+used+by+millions;Server-Driven+UI+%7C+Modular+Architecture;Swift+%7C+UIKit+%7C+AVKit+%7C+CoreData;Scaling+consumer-grade+mobile+experiences" alt="Typing SVG" /></a>
@@ -21,7 +21,7 @@
 
 ```swift
 struct BharatJuneja {
-    let role = "SDE3 · Senior iOS Engineer"
+    let role = "SDE3"
     let company = "Nykaa"
     let experience = "8+ years"
     let domains = ["E-Commerce", "Ed-Tech", "IoT"]
