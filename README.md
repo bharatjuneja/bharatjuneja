@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE%203%20%7C%208%2B%20Years&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Juneja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDE%203%20%7C%209%2B%20Years&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+iOS+apps+used+by+millions;Server-Driven+UI+%7C+Modular+Architecture;Swift+%7C+UIKit+%7C+AVKit+%7C+CoreData;Scaling+consumer-grade+mobile+experiences" alt="Typing SVG" /></a>
@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://bharatjuneja.github.io/bharat-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://bharatjuneja.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juneja.bharat8@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_9034496886-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+919034496886)
 
@@ -23,9 +23,9 @@
 struct BharatJuneja {
     let role = "SDE 3"
     let company = "Nykaa"
-    let experience = "8+ years"
+    let experience = "9+ years"
     let domains = ["E-Commerce", "Ed-Tech", "IoT"]
-    let usersImpacted = "Millions"
+    let usersImpacted = "160M+"
     
     var passion: String {
         "Building scalable, modular iOS architectures that ship fast and delight users"
@@ -84,8 +84,8 @@ struct BharatJuneja {
 
 <div align="center">
 
-<a href="https://apps.apple.com/in/app/nykaa-makeup-beauty-shopping/id1022363908">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatjuneja&repo=bharat-portfolio&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366f1&icon_color=818cf8&text_color=ededed" />
+<a href="https://bharatjuneja.github.io/portfolio/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatjuneja&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366f1&icon_color=818cf8&text_color=ededed" />
 </a>
 
 </div>
@@ -96,7 +96,7 @@ struct BharatJuneja {
 | **Byju's Video Player** | DRM video playback framework used by all apps in Byju's ecosystem | `Swift` `AVKit` `DRM` `XCTest` |
 | **Netgear Insight** | IoT app to manage Netgear devices — Access Points, Switches, NAS | `Objective-C` `Swift` `Charts` `REST API` |
 
-🌐 **[View my full portfolio →](https://bharatjuneja.github.io/bharat-portfolio/)**
+🌐 **[View my full portfolio →](https://bharatjuneja.github.io/portfolio/)**
 
 ---
 
@@ -127,7 +127,7 @@ struct BharatJuneja {
 
 <p>I'm always open to discussing iOS architecture, new opportunities, or just geeking out about Swift.</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366F1?style=for-the-badge)](https://bharatjuneja.github.io/bharat-portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366F1?style=for-the-badge)](https://bharatjuneja.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:juneja.bharat8@gmail.com)
 
 <br/>
